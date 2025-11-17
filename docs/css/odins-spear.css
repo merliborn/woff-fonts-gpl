@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Odins Spear';
+  src: url('https://merliborn.github.io/woff-fonts-gpl/woff/odins-spear/odins-spear.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts-gpl/woff/odins-spear/odins-spear.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+20-5F, U+F020-F05F;
+}
+
+@font-face {
+  font-family: 'Odins Spear Ragged Hollow';
+  src: url('https://merliborn.github.io/woff-fonts-gpl/woff/odins-spear/odins-spear-ragged-hollow.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts-gpl/woff/odins-spear/odins-spear-ragged-hollow.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+20-5A, U+61-7A, U+7E, U+80, U+A0, U+F020-F07E, U+F080, U+F0A0;
+}
