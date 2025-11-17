@@ -13,3 +13,4 @@ The main part and the webpage are also licensed under MIT License at [another wo
 | Part | Location | Author/Designer |
 |:----:|:---------|:----------------|
 | Any non-font part | ./ | © 2025 merliborn |
+| Odins Spear | fonts/odins-spear/ | © 2008 BCD/MFA |
